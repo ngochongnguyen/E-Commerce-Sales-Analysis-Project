@@ -24,8 +24,13 @@ The project includes:
 
 📂 Project Structure
 Ecommerce-Sales-Analysis/
+
 │
+
 ├── ecommerce_sales_analysis.ipynb
+
 ├── README.md
+
 ├── data/
+
 └── images/
