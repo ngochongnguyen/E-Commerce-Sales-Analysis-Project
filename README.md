@@ -1,5 +1,6 @@
  📊 E-Commerce Sales Analysis Project
- 📌 Overview
+ 
+ 📌 Overview:
 
 This project analyzes e-commerce sales data using Python and pandas to extract business insights and visualize important sales metrics.
 
@@ -23,9 +24,7 @@ The project includes:
 - Sales increased during the last quarter of the year
 
 📂 Project Structure
-Ecommerce-Sales-Analysis/
-
-│
+Ecommerce-Sales-Analysis/│
 
 ├── ecommerce_sales_analysis.ipynb
 
